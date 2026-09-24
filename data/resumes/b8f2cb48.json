@@ -1,0 +1,61 @@
+{
+  "document_id": "b8f2cb48",
+  "document_type": "RESUME",
+  "source_text_hash": "4ee9e6b05a80f1973e501a293b613eb7caf72600f4a9c8a05314b318fd1192f9",
+  "parser_version": "2.7",
+  "updated_at": "2026-09-20T14:19:01.411257Z",
+  "analysis": {
+    "candidate_name": "Dyna.mic bypedl",
+    "location": null,
+    "summary": "<br> Ne no necd to declare <br> data tyPe to a vaviable)e",
+    "skills": {
+      "programming": [
+        "Python"
+      ],
+      "ai_ml": [
+        "AI",
+        "ML",
+        "Deep Learning",
+        "Image Processing"
+      ],
+      "generative_ai": [],
+      "libraries": [
+        "NumPy"
+      ],
+      "frontend": [],
+      "backend": [
+        "APIs"
+      ],
+      "tools": [
+        "Cython"
+      ]
+    },
+    "education": [],
+    "experience": [],
+    "projects": [],
+    "certifications": [],
+    "achievements": [],
+    "document_id": "b8f2cb48",
+    "document_type": "RESUME",
+    "all_skills": [
+      "AI",
+      "APIs",
+      "Cython",
+      "Deep Learning",
+      "Image Processing",
+      "ML",
+      "NumPy",
+      "Python"
+    ],
+    "technical_skills": [
+      "AI",
+      "APIs",
+      "Cython",
+      "Deep Learning",
+      "Image Processing",
+      "ML",
+      "NumPy",
+      "Python"
+    ]
+  }
+}

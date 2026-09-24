@@ -1,0 +1,27 @@
+.env
+.env.*
+backend/.env
+backend/.env.*
+frontend/.env
+frontend/.env.*
+
+# Local/private document data
+data/pdfs/*
+!data/pdfs/.gitkeep
+data/extracted_text/*
+!data/extracted_text/.gitkeep
+data/chunks/*
+!data/chunks/.gitkeep
+data/embeddings/*
+!data/embeddings/.gitkeep
+models/*
+!models/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+backend/venv/
+
+# Next.js
+frontend/.next/
+frontend/node_modules/

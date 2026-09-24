@@ -1,0 +1,189 @@
+{
+  "document_id": "cf15cd49",
+  "document_type": "RESUME",
+  "source_text_hash": "27754b26ef21b001a6b7774f455bc0121bc8f945d5efc2e293976460698ead01",
+  "parser_version": "2.7",
+  "updated_at": "2026-09-20T13:46:44.985481Z",
+  "analysis": {
+    "candidate_name": "MODEPALLI RAVINDRA BABU",
+    "location": "Hyderabad, Telangana, India",
+    "summary": "AI & ML graduate with hands-on experience in Python, Machine Learning, NLP, and Generative AI. Skilled in developing AI applications using LLMs, RAG, embeddings, FastAPI, and data processing techniques.",
+    "education": [
+      {
+        "institution": "NRI Institute of Technology, Agiripalli",
+        "year": "2025",
+        "degree": "B.Tech in Artificial Intelligence and Machine Learning",
+        "score": "CGPA: 8.6/10"
+      }
+    ],
+    "skills": {
+      "programming": [
+        "Python",
+        "SQL"
+      ],
+      "ai_ml": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "NLP",
+        "Feature Engineering",
+        "Model Evaluation"
+      ],
+      "generative_ai": [
+        "LLMs",
+        "RAG",
+        "Embeddings",
+        "Prompt Engineering"
+      ],
+      "libraries": [
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "TensorFlow",
+        "PyTorch",
+        "Keras"
+      ],
+      "frontend": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React.js",
+        "Tailwind CSS"
+      ],
+      "backend": [
+        "FastAPI",
+        "REST APIs"
+      ],
+      "tools": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Jupyter Notebook",
+        "Postman"
+      ]
+    },
+    "experience": [
+      {
+        "company": "PowerUrBiz",
+        "role": "AI Engineer Intern",
+        "duration": "Jan 2026 – Jul 2026",
+        "highlights": [
+          "Developed Python-based NLP workflows to process and classify customer queries for an AI-powered customer support application.",
+          "Prepared and cleaned conversational datasets and performed feature engineering for machine learning workflows.",
+          "Implemented query classification and response-generation workflows to automate customer query handling.",
+          "Developed FastAPI REST endpoints and evaluated AI responses through iterative testing to improve workflow reliability."
+        ],
+        "project": "AI-Powered Customer Support Assistant"
+      }
+    ],
+    "projects": [
+      {
+        "title": "AI Code Complexity Analyzer",
+        "technologies": [
+          "React.js",
+          "Python",
+          "FastAPI",
+          "AST",
+          "CodeBERT",
+          "REST APIs"
+        ],
+        "highlights": [
+          "Developed a Python-based application to analyze source code and generate structured complexity insights.",
+          "Implemented Abstract Syntax Tree (AST) analysis to identify functions, loops, conditions, and code-level com plexity factors.",
+          "Built FastAPI REST endpoints to process submitted source code and return organized analysis results.",
+          "Combined rule-based analysis with CodeBERT representations to generate code insights and support maintain ability improvements."
+        ]
+      },
+      {
+        "title": "AI-Powered Knowledge Assistant",
+        "technologies": [
+          "Python",
+          "LLMs",
+          "RAG",
+          "Embeddings",
+          "Vector Search",
+          "FastAPI"
+        ],
+        "highlights": [
+          "Developed a Python-based AI assistant that retrieves relevant information from document collections and gen erates contextual responses.",
+          "Implemented document preprocessing, text chunking, embeddings, and vector similarity search for information retrieval.",
+          "Designed a Retrieval-Augmented Generation (RAG) workflow to provide relevant context to the language model before response generation.",
+          "Built FastAPI endpoints to integrate document retrieval and AI response generation into an application workflow."
+        ]
+      }
+    ],
+    "certifications": [
+      "Python Certification – HackerRank",
+      "SQL Certification – HackerRank",
+      "Deloitte Data Analytics Job Simulation – Forage"
+    ],
+    "achievements": [
+      "Grand Finalist – Smart India Hackathon 2023",
+      "Winner – Short Film Contest “Hacked-Life”",
+      "Winner – Idea Exhibition, SUNRISE 2K24"
+    ],
+    "document_id": "cf15cd49",
+    "document_type": "RESUME",
+    "all_skills": [
+      "Artificial Intelligence",
+      "CSS3",
+      "Embeddings",
+      "FastAPI",
+      "Feature Engineering",
+      "Git",
+      "GitHub",
+      "HTML5",
+      "JavaScript",
+      "Jupyter Notebook",
+      "Keras",
+      "LLMs",
+      "Machine Learning",
+      "Model Evaluation",
+      "NLP",
+      "NumPy",
+      "Pandas",
+      "Postman",
+      "Prompt Engineering",
+      "PyTorch",
+      "Python",
+      "RAG",
+      "REST APIs",
+      "React.js",
+      "SQL",
+      "Scikit-learn",
+      "Tailwind CSS",
+      "TensorFlow",
+      "VS Code"
+    ],
+    "technical_skills": [
+      "Artificial Intelligence",
+      "CSS3",
+      "Embeddings",
+      "FastAPI",
+      "Feature Engineering",
+      "Git",
+      "GitHub",
+      "HTML5",
+      "JavaScript",
+      "Jupyter Notebook",
+      "Keras",
+      "LLMs",
+      "Machine Learning",
+      "Model Evaluation",
+      "NLP",
+      "NumPy",
+      "Pandas",
+      "Postman",
+      "Prompt Engineering",
+      "PyTorch",
+      "Python",
+      "RAG",
+      "REST APIs",
+      "React.js",
+      "SQL",
+      "Scikit-learn",
+      "Tailwind CSS",
+      "TensorFlow",
+      "VS Code"
+    ]
+  }
+}
